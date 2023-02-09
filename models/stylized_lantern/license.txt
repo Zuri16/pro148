@@ -1,0 +1,11 @@
+Model Information:
+* title:	stylized lantern
+* source:	https://sketchfab.com/3d-models/stylized-lantern-b37aa90dbc5141f0afe9d7313c1807d1
+* author:	BeerP (https://sketchfab.com/BeerPuls)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "stylized lantern" (https://sketchfab.com/3d-models/stylized-lantern-b37aa90dbc5141f0afe9d7313c1807d1) by BeerP (https://sketchfab.com/BeerPuls) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
